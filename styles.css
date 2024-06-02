@@ -1,0 +1,33 @@
+input.larger-checkbox {
+    height: 20px;
+    width: 20px;
+}
+
+.mydiv {
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.center-text {
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.title-text {
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: chocolate;
+    text-align: center;
+}
+
+.input-box {
+    width: auto;
+    height: 25px;
+}
+
+.form-style {
+    margin-top: 10px;
+}
